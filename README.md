@@ -1,5 +1,5 @@
-![Project Preview](ProductSummary.PNG)
-![Project Preview](ProductAdd.PNG)
+![Project ProductSummary](ProductSummary.PNG)
+![Project ProductAdd](ProductAdd.PNG)
 
 ## Getting Started git clone https://github.com/mohit3218/nextjs-crud-with-mysql.git
 
