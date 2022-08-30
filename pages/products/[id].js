@@ -12,7 +12,7 @@ function ProductScreen({ product }) {
     <Link href="/products" ><button className="btn btn-sm btn-success mb-3">Product Summary</button></Link>
         <div className="row">
             <div className="col-12">
-            <p>Name: {product.title}</p>
+            <p>Title: {product.title}</p>
             <p>Description: {product.description}</p>
             </div>
         </div>
